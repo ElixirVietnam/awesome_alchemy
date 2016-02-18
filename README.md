@@ -10,4 +10,4 @@ Tổng hợp tài liệu học Elixir trên thế giới
 
 ## Sách in
 * [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do)
-
+* [Elixir in Action](https://www.manning.com/books/elixir-in-action)
