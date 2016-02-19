@@ -14,4 +14,4 @@ Tổng hợp tài liệu học Elixir trên thế giới
 
 
 ## Một vài thư viện thông dụng
-* https://github.com/h4cc/awesome-elixir
+* [https://github.com/h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir)
